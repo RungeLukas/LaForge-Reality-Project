@@ -26,3 +26,5 @@ proguard/
 
 # Log Files
 *.log
+AR_Samples/.idea/workspace.xml
+AR_Samples/.idea/vcs.xml
