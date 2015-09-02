@@ -12,10 +12,27 @@
 bin/
 gen/
 
+# .iws files
+*.iws
+
 # Gradle files
 .gradle/
 build/
 /*/build/
+
+# User-specific configurations
+AR_Samples/.idea/libraries/
+AR_Samples/.idea/workspace.xml
+AR_Samples/.idea/tasks.xml
+AR_Samples/.idea/.name
+AR_Samples/.idea/compiler.xml
+AR_Samples/.idea/copyright/profiles_settings.xml
+AR_Samples/.idea/encodings.xml
+AR_Samples/.idea/misc.xml
+AR_Samples/.idea/modules.xml
+AR_Samples/.idea/scopes/scope_settings.xml
+AR_Samples/.idea/vcs.xml
+*.iml
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -25,3 +42,5 @@ proguard/
 
 # Log Files
 *.log
+
+

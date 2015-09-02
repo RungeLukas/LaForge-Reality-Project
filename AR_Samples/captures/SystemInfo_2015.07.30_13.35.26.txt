@@ -1,0 +1,27 @@
+TASK com.qualcomm.vuforia.samples.VuforiaSamples id=8
+  ACTIVITY com.qualcomm.vuforia.samples.VuforiaSamples/.app.ImageTargets.ImageTargets 4141adb0 pid=11196
+    Local Activity 412353f8 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.3 0mcc0mnc de_DE layoutdir=0 sw600dp w540dp h912dp lrg long port finger -keyb/v/h -nav/h s.50}
+    FragmentManager misc state:
+      mCurState=5 mStateSaved=false mDestroyed=false
+
+  ACTIVITY com.qualcomm.vuforia.samples.VuforiaSamples/.ui.ActivityList.AboutScreen 413d27a0 pid=11196
+    Local Activity 4121eba0 State:
+      mResumed=false mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.3 0mcc0mnc de_DE layoutdir=0 sw600dp w540dp h912dp lrg long port finger -keyb/v/h -nav/h s.48}
+    FragmentManager misc state:
+      mCurState=4 mStateSaved=false mDestroyed=false
+
+  ACTIVITY com.qualcomm.vuforia.samples.VuforiaSamples/.ui.ActivityList.ActivityLauncher 413c0cb8 pid=11196
+    Local Activity 410c48d8 State:
+      mResumed=false mStopped=true mFinished=false
+      mLoadersStarted=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.3 0mcc0mnc de_DE layoutdir=0 sw600dp w540dp h912dp lrg long port finger -keyb/v/h -nav/h s.48}
+    FragmentManager misc state:
+      mCurState=3 mStateSaved=true mDestroyed=false
