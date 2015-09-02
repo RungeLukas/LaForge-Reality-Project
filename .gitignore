@@ -21,17 +21,17 @@ build/
 /*/build/
 
 # User-specific configurations
-.idea/libraries/
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/.name
-.idea/compiler.xml
-.idea/copyright/profiles_settings.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/scopes/scope_settings.xml
-.idea/vcs.xml
+AR_Samples/.idea/libraries/
+AR_Samples/.idea/workspace.xml
+AR_Samples/.idea/tasks.xml
+AR_Samples/.idea/.name
+AR_Samples/.idea/compiler.xml
+AR_Samples/.idea/copyright/profiles_settings.xml
+AR_Samples/.idea/encodings.xml
+AR_Samples/.idea/misc.xml
+AR_Samples/.idea/modules.xml
+AR_Samples/.idea/scopes/scope_settings.xml
+AR_Samples/.idea/vcs.xml
 *.iml
 
 # Local configuration file (sdk path, etc)
@@ -42,4 +42,5 @@ proguard/
 
 # Log Files
 *.log
-AR_Samples/.idea/workspace.xml
+
+
