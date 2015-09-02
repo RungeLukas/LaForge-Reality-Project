@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vuforia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/src/main/vuforia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
