@@ -28,3 +28,7 @@ proguard/
 *.log
 AR_Samples/.idea/workspace.xml
 AR_Samples/.idea/vcs.xml
+AR_Samples/.idea/compiler.xml
+AR_Samples/.idea/encodings.xml
+AR_Samples/.idea/modules.xml
+AR_Samples/.idea/workspace.xml
